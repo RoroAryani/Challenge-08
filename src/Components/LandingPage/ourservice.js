@@ -8,7 +8,7 @@ function Ourservice(){
         <div className="container">
             <div className="row justify-content-center">
                 <div id="OurService" className="col-md-5 my-auto">
-                    <img src="asset/assets-our-services.png" alt="Assets Our Services" className="img-fluid"/>
+                    <img src="asset/assets-our-services.PNG" alt="Assets Our Services" className="img-fluid"/>
                 </div>
                 <div className="col-md-5 my-auto text-dark">
                     <h2 className="fw-bolder mb-3">Best Car Rental for any kind of trip in Jogja!</h2>
